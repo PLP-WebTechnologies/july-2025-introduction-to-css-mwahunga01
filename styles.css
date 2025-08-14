@@ -1,0 +1,34 @@
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+nav button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    border: 2px solid #333;
+    background-color: #fff;
+}
+
+.card {
+    background-color: #e0e0e0;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #666;
+}
+
+h1 {
+    color: #333;
+    font-size: 2em;
+}
+
+h2 {
+    color: #444;
+    font-size: 1.5em;
+}
+
+p {
+    color: #555;
+    font-size: 1em;
+}
